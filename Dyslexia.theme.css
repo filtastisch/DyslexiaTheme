@@ -7,4 +7,11 @@
  * @website https://filtastisch.eu
  */
 
+@font-face {
+    font-family: 'OpenDyslexic';
+    src: url('https://github.com/filtastisch/DyslexiaTheme/raw/refs/heads/main/OpenDyslexic3-Regular.ttf') format('truetype');
+}
 
+*{
+    font-family: 'OpenDyslexic', sans-serif;
+}
